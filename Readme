@@ -1,0 +1,8 @@
+Muniru Lamin
+COSC 320 Project 1
+Dr. Joe Anderson
+03/24/19
+
+This project creates an algorithm to find the inverse of a matrix, then apply the solution to the problem of linear regression with Ordinary Least Squares.
+There are several functions in this projet that does different routines. All these functions have comments and explainations of what they are supposed to do.
+The projects consists of 3 files, the main.cpp, matrix.h, and matrix.cpp. matrix.h has a matrix class where all the declarations are done. matrix.cpp implement all the functions declared in the matrix.h. main.cpp is where the output and the final calling of the linear least squares happens. It has a menu option which gives the user aninteraction phase so they can test my program. The first option is to test the linear regression with Ordinary Least squares which is input through command line. The next option is to test my functions included in my matrix class seperately to see if the work independently.
